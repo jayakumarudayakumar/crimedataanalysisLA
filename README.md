@@ -8,4 +8,5 @@ The project is about the crime occurrences in Los Angeles from 2020 to the prese
 
 ## ​Questions Vs Models Chosen​
 1. Is there a correlation between the time of the day and the reported crime frequency?
+   
    Model: Linear Regression, Rationale - This model helps us to make comparisons and predictions between the independent variable (Time) and dependent variable (crime count)
