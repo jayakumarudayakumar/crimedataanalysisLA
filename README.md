@@ -10,3 +10,7 @@ The project is about the crime occurrences in Los Angeles from 2020 to the prese
 1. Is there a correlation between the time of the day and the reported crime frequency?
    
    Model: Linear Regression, Rationale - This model helps us to make comparisons and predictions between the independent variable (Time) and dependent variable (crime count)
+
+2. How severe are the vandalism crimes in LA? Misdemeanor Vs Felony. Which one of them would be expected to occur the most?
+
+   Model: Binary Classification through Logistic Regression, Rationale: This model comparatively performed well in classifying and predicting the vandalism crime categories: misdemeanor and felony.​
