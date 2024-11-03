@@ -14,3 +14,7 @@ The project is about the crime occurrences in Los Angeles from 2020 to the prese
 2. How severe are the vandalism crimes in LA? Misdemeanor Vs Felony. Which one of them would be expected to occur the most?
 
    Model: Binary Classification through Logistic Regression, Rationale: This model comparatively performed well in classifying and predicting the vandalism crime categories: misdemeanor and felony.​
+
+3. ​How can we analyze and predict incident outcomes (crime statuses) based on the type of crime, date/time of occurrence, and geographical locations?
+
+   Model: Decision-Tree Model, Rationale: It is comparatively the best method that provided better output in performing multi-class classification and predictions of the "Crime Status Codes" concerning the factors such as time occurrences and locations
