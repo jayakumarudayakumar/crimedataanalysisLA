@@ -4,7 +4,7 @@
 The project is about the crime occurrences in Los Angeles from 2020 to the present.
 1. ​It is a real-time dataset being updated on a bi-weekly basis and available for public use. (Source: Data.gov)​
 2. The primary goal is to analyze the crime occurrences, frequency, and severity from the variables in the dataset
-3. Secondary goal is to utilize predictive modeling methods to recognize the most vulnerable time, age, and geographical locations
+3. The Secondary goal is to utilize predictive modeling methods to recognize the most vulnerable time, age, and geographical locations
 
 ## ​Questions Vs Models Chosen​
 1. Is there a correlation between the time of the day and the reported crime frequency?
